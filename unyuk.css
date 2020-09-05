@@ -1,6 +1,6 @@
-body {
-background-color: blue;
-}
-.menu-list {
+.menu-list li {
+list-style: none;
 float: left;
+padding: 25px 15px;
+background-color: blue;
 }
