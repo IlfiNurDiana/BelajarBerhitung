@@ -22,15 +22,17 @@ li {
 }
 .main {
   padding: 100px 80px;
-  bacground-color: #b7edfa;
+  background-color: #b7edfa;
   color: black;
 }
 .ayo-belajar h1 {
   float: center;
   font-size: 120px;
+  padding: 10px 30px;
   }
 .ayo-belajar h1 {
   float: center;
   font-size: 60px;
+  padding: 10px 35;
   }
     
