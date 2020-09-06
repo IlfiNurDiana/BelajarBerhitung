@@ -1,6 +1,24 @@
-.menu-list li {
-list-style: none;
-float: right;
-padding: 25px 15px;
-background-color: blue;
+body {
+  font-family: "Avenir Next";
 }
+li {
+  list-style: none;
+}
+.menu {
+  background-color: #b7edfa;
+    color: #52d8f9;
+  height: 100px;
+}
+.menu-logo {
+  float; left;
+  font-size: 40px;
+  padding: 25px 46px;
+  margin: 10px;
+}
+.menu-list {
+  float: left;
+  font-size: 30px
+  padding: 35px 23px;
+  margin: 10px;
+}
+    
