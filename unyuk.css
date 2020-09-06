@@ -11,6 +11,7 @@ li {
 }
 .menu-logo {
   float; left;
+  color: black;
   font-size: 45px;
   padding: 25px 46px;
   margin: 10px;
@@ -21,4 +22,15 @@ li {
   padding: 35px 23px;
   margin: 10px;
 }
+.main {
+  padding: 100px 80px;
+}
+.ayo-belajar h1 {
+  float: center;
+  font-size: 120px;
+  }
+.ayo-belajar h1 {
+  float: center;
+  font-size: 60px;
+  }
     
