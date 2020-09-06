@@ -5,7 +5,7 @@ li {
   list-style: none;
 }
 .header {
-  background-color: #b7edfa;
+  background-color: #52d8f9;
     color: black;
   height: 90px;
 }
@@ -14,7 +14,7 @@ li {
   font-size: 45px;
   padding: 20px 40px;
 }
-.header-list a {
+.header-list li {
   float: left;
   font-size: 30px;
   padding: 20px 40px;
