@@ -4,17 +4,17 @@ body {
 li {
   list-style: none;
 }
-.menu {
+.header {
   background-color: #b7edfa;
     color: black;
   height: 90px;
 }
-.menu-logo {
+.header-logo {
   float; left;
   font-size: 45px;
   padding: 20px 40px;
 }
-.menu-list li {
+.header-list li {
   float: left;
   padding: 10px 50px;
   margin: 10px;
