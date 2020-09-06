@@ -11,12 +11,11 @@ li {
 }
 .menu-logo {
   float; left;
-  color: black;
   font-size: 45px;
   padding: 25px 46px;
   margin: 10px;
 }
-.menu-list {
+.menu-list li {
   float: right;
   font-size: 30px
   padding: 35px 23px;
