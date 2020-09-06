@@ -16,7 +16,8 @@ li {
 }
 .header-list li {
   float: left;
-  padding: 10px 50px;
+  font-size: 30px;
+  padding: 33px 20px;
   margin: 10px;
 }
 .main {
