@@ -8,6 +8,7 @@ li {
   background-color: #52d8f9;
     color: black;
   height: 90px;
+  width: 50px;
 }
 .header-logo {
   float; left;
