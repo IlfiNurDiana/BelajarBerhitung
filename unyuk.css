@@ -14,10 +14,10 @@ li {
   font-size: 45px;
   padding: 20px 40px;
 }
-.header-list li {
+.header-list a {
   float: left;
   font-size: 30px;
-  padding: 33px 20px;
+  padding: 20px 40px;
   margin: 10px;
 }
 .main {
