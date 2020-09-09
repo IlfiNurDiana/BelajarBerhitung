@@ -5,16 +5,15 @@ body {
     color: black;
   font-size: 45px;
   height: 90px;
-}
+  }
 .main {
-  padding: 100px 80px;
   background-color: #b7edfa;
   color: black;
-}
+  }
 .footer {
   background-color: #191970;
     color: black;
-  height: 90px;
+  height: 150px;
   }
   
     
