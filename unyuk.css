@@ -5,30 +5,20 @@ body {
     color: black;
   height: 90px;
 }
-.header-logo {
+.header {
   float; left;
   font-size: 45px;
   padding: 20px 40px;
-}
-.header-list li {
-  float: left;
-  font-size: 30px;
-  padding: 33px 20px;
-  margin: 10px;
 }
 .main {
   padding: 100px 80px;
   background-color: #b7edfa;
   color: black;
 }
-.ayo-belajar h1 {
-  float: center;
-  font-size: 120px;
-  padding: 10px 30px;
+.footer {
+  background-color: #191970;
+    color: black;
+  height: 90px;
   }
-.ayo-belajar h1 {
-  float: center;
-  font-size: 60px;
-  padding: 10px 35;
-  }
+  
     
