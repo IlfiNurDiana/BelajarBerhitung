@@ -3,12 +3,8 @@ body {
 .header {
   background-color: #4682b4;
     color: black;
-  height: 90px;
-}
-.header {
-  float; left;
   font-size: 45px;
-  padding: 20px 40px;
+  height: 90px;
 }
 .main {
   padding: 100px 80px;
