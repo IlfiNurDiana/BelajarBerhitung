@@ -8,26 +8,41 @@ body {
   float: left;
   }
 .main {
-  background-color: #b7edfa;
-  color: black;
+  padding: 100px 80px;
   }
-  .ayo {}
-    color: black;
+  .ayo h1 {
+    font-size: 140px;
   }
-.content {
-}
-.isi {
-}
-.h3 {
-}
+  .ayo h2 {
+    font-size: 60px;
+  }
+  .content {
+    height: 500px;
+    margin-top: 100px;
+  }
+  .isi {
+    border-bottom: 2px solid #dee7ec;
+  }
+  .judul h3 {
+    font-size: 24px;
+    margin-right: 40px;
+  }
+  .judul p {
+    font-size: 24px;
+    margin-top: 30px;
+  }
+  .judul a {
+    font-size: 24px;
+    margin-top: 20px;
+  }
 .footer {
   background-color: #191970;
     color: black;
   height: 150px;
   }
-.footer-logo {
-}
-.footer-list {
-}
+  .footer-logo {
+  }
+  .footer-list {
+  }
   
     
