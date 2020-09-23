@@ -1,49 +1,22 @@
 body {
   font-family: "Avenir Next";
+}
+li {
+  list-style: none;
+}
 .header {
   background-color: #4682b4;
-    color: black;
-  font-size: 45px;
-  height: 90px;
+  color: black;
+  height; 90px;
+}
+.header-logo {
   float: left;
-  }
-.main {
-  padding: 90px 60px;
-  background-color: #dee7ec;
-  }
-  .ayo h1 {
-    font-size: 140px;
-  }
-  .ayo h2 {
-    font-size: 60px;
-  }
-  .content {
-    height: 500px;
-    margin-top: 10px;
-  }
-  .isi {
-    border-bottom: 2px solid black;
-  }
-  .judul h3 {
-    font-size: 24px;
-    margin-right: 40px;
-  }
-  .judul p {
-    font-size: 24px;
-    margin-top: 30px;
-  }
-  .judul a {
-    font-size: 24px;
-    margin-top: 20px;
-  }
-.footer {
-  background-color: #191970;
-    color: black;
-  height: 150px;
-  }
-  .footer-logo {
-  }
-  .footer-list {
-  }
-  
+  font-size: 36px;
+  padding: 20px 40px;
+}
+.header-list {
+  float: left;
+  padding: 33px 20px;
+}
+
     
