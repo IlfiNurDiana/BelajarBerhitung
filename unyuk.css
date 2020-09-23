@@ -18,5 +18,12 @@ li {
   float: left;
   padding: 33px 20px;
 }
-
+.main {
+  height:600px;
+  background-color:#dee7ec;
+}
+.footer {
+  height:270px;
+  background-color:#191970;
+}
     
