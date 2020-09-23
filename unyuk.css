@@ -19,11 +19,11 @@ li {
   padding: 33px 20px;
 }
 .main {
-  height:600px;
-  background-color:#dee7ec;
+  height: 600px;
+  background-color:red;
 }
 .footer {
-  height:270px;
-  background-color:#191970;
+  height: 270px;
+  background-color: black;
 }
     
