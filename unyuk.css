@@ -25,10 +25,14 @@ li {
   height: 600px;
 }
 .judul h1 {
-font-size: 140px;
+font-size: 30px;
+  color: white;
+  float: center;
 }
 .judul h2 {
-font-size: 90px;
+font-size: 20px;
+  color: white;
+  float: center;
 }
 
 .footer {
