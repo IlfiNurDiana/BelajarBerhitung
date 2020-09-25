@@ -23,17 +23,7 @@ li {
 .main {
   background-color: #48d1cc;
   height: 600px;
-}
-.judul h1 {
-font-size: 30px;
-  color: white;
-  padding-left: 90px;
-}
-.judul h2 {
-font-size: 20px;
-  color: white;
-  padding-left: 90px;
-}
+
 
 .footer {
   background-color: #008080;
