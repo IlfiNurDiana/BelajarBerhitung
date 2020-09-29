@@ -12,6 +12,7 @@ li {
 .header {
   height: 90px;
   background-color: #5f9ea0;
+  color: white;
 }
 
 .header-logo {
