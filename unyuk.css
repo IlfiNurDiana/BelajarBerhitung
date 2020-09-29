@@ -9,7 +9,7 @@ li {
 }
 
 .header {
-  background-color: #5f9ea0;
+  background-color: #26d0c9;
   color: #fff;
   height: 90px;
 }
@@ -21,12 +21,11 @@ li {
 }
 
 .main {
-  background-color: #48d1cc;
+  background-color: #bdf7f1;
   height: 600px;
-
+}
 
 .footer {
-  height:270px;
-  background-color:#ceccf3;
+  background-color: #ceccf3;
+  height: 270px;
 }
-    
