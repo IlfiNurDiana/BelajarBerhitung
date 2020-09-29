@@ -5,7 +5,6 @@ body {
 li {
   list-style: none;
   float: left;
-  font-size: 25px;
   padding:33px 30px;
 }
 
@@ -17,7 +16,7 @@ li {
 
 .header-logo {
   float: left;
-  font-size: 36px;
+  font-size: 40px;
   padding:20px 40px;
 }
 
