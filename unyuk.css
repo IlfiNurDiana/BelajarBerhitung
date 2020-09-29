@@ -8,11 +8,10 @@ li {
   padding:33px 20px;
 }
 
-}
 .header {
-  height: 90px;
   background-color: #5f9ea0;
   color: white;
+  height: 90px;
 }
 
 .header-logo {
@@ -22,10 +21,11 @@ li {
 }
 
 .main {
-  height: 600px;
   background-color: #48d1cc;
+  height: 600px;
 }
+
 .footer {
-  height: 150px;
   background-color: #008080;
+  height: 150px;
 }
