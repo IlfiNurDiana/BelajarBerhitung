@@ -40,7 +40,7 @@ header ul li a:hover {
     background-color: #5f9ea0;
     color: #ffffff;
 }
-.active {
+.selected {
     background-color: #5f9ea0;
     color: #ffffff;
 }
