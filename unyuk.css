@@ -45,8 +45,8 @@ header ul li a:hover {
     color: #ffffff;
 }
 .gambar {
-    height: 68.5vh;
-    background-image: url('https://raw.githubusercontent.com/IlfiNurDiana/BilanganMenu/master/gambar4.jpg');
+    height: 87vh;
+    background-image: url('gambar4.jpg');
     background-size: cover;
     position: relative;
     display: flex;
@@ -66,25 +66,58 @@ header ul li a:hover {
 .gambar h2 {
     font-size: x-large;
     font-weight: bold;
-    font-family: sans-serif;
     color: white;
     z-index: 1;
     padding: 20px 20px;
     border: 5.5px solid#ffffff;
 }
-section {
-    padding: 58px 0;
+.keterangan {
+    background-color: white;
+    padding: 30px 0;
 }
-@media screen and (max-width: 768px) {
-    .container {
-        width: 90%;
-    }
-    header h1 {
-        text-align: center;
-        float: none;
-    }
-    header ul {
-        text-align: center;
-        float: none;
-    }
+.keterangan h3 {
+    text-align: center;
+    color: #044949;
+    padding-top: 50px;
+    padding-bottom: 25px;
 }
+.keterangan p {
+    text-align: center;
+    padding: 0 90px;
+    word-spacing: 2px;
+    line-height: 25px;
+}
+.medsos {
+    background-color: white;
+    height: 440px;
+}
+.medsos h3 {
+    padding: 40px 0;
+    text-align: center;
+    color: #044949;
+}
+.icon {
+    float: left;
+    padding:0 65px;
+}
+.icon p {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    padding: 10px 0;
+}
+.footer {
+    padding: 15px 0;
+    background-color: rgb(41, 83, 83);
+    color: #ffffff;
+    text-align: center;
+    font-family: courier;
+}
+.footer p {
+    padding: 10px 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 11.2px;
+}
+
+    
